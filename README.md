@@ -75,8 +75,9 @@ Dibangun menggunakan **Flask + Folium + Bootstrap**, aplikasi ini dirancang untu
 ## 🚀 Cara Menjalankan
 
 ### Prasyarat
-- Python 3.8+
-- Flask, Folium, Geopandas
+- Language : Python 3.8+
+- Framework : Flask
+- Library : Folium, Geopandas, matplotlib, scikit-learn
 
 ### Instalasi
 ```bash
